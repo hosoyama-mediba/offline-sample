@@ -1,5 +1,5 @@
-const cacheId = '1498617612349';
-const fallbackUrl = `/offline.html?_cc=${cacheId}`;
+const cacheId = '1498618024568';
+const fallbackUrl = `offline.html?_cc=${cacheId}`;
 
 self.addEventListener('install', (event) => {
     event.waitUntil(
