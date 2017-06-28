@@ -3,12 +3,12 @@
     "short_name": "offline-sample",
     "icons": [
         {
-            "src": "/favicon.png",
+            "src": "favicon.png",
             "sizes": "192x192",
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "offline-sample/",
     "background_color": "#ffffff",
     "theme_color": "#888888",
     "display": "standalone"
