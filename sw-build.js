@@ -1,3 +1,8 @@
+/**
+ * 分かりやすいように自前ビルドスクリプトを用意したが
+ * 実際の開発時はsw-precacheを利用したい
+ * https://github.com/GoogleChrome/sw-precache
+ */
 const fs = require('fs');
 
 const src = `${__dirname}/sw-template.js`;
