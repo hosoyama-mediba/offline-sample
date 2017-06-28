@@ -1,0 +1,10 @@
+{
+  "name": "offline-sample",
+  "version": "1.0.0",
+  "repository": "https://hosoyama-mediba@github.com/hosoyama-mediba/offline-sample.git",
+  "author": "[mediba] Terunobu Hosoyama <hosoyama@mediba.jp>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node sw-build.js"
+  }
+}
